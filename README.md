@@ -1,2 +1,2 @@
 # P2
-repositorio practica 2 ISII
+Creacion del repositorio P2 para la  practica 2 ISII 
